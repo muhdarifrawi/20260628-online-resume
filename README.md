@@ -153,9 +153,9 @@ Copy any service card `<div>` block in the services section and update the icon,
 
 ---
 ## Work in progress
-- [ ] Add in "about" section - talks more about my journey and about myself. 
-- [ ] Update the sections number
-- [ ] Add in the new "about" section into the navbar
+- [x] Add in "about" section - talks more about my journey and about myself. 
+- [x] Update the sections number
+- [x] Add in the new "about" section into the navbar
 - [ ] Update education and projects details
 
 ---
