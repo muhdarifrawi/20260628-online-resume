@@ -82,7 +82,7 @@ xdg-open index.html    # Linux
 
 Open `index.html` and replace the placeholder content with your own:
 
-- **Name & title** — search for `Alex Morgan` or `Arif Rawi` and `Full Stack Developer`
+- **Name & title** — search for `Arif Rawi` and `Full Stack Developer`
 - **Bio** — update the hero paragraph
 - **Skills** — adjust language names and proficiency percentages
 - **Experience** — update job titles, companies, dates, and descriptions
