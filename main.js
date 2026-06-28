@@ -34,6 +34,11 @@ document.addEventListener('DOMContentLoaded', () => {
   const toggle = document.getElementById('themeToggle');
   const label  = document.getElementById('themeLabel');
   const html   = document.documentElement;
+  const yearNow = document.getElementById('yearNow');
+
+  // Set copyright year to current year
+  const currentYear = new Date().getFullYear();
+  yearNow.innerText = currentYear;
 
   // Set label to reflect current state on load
   label.textContent = html.classList.contains('dark') ? 'dark' : 'light';
